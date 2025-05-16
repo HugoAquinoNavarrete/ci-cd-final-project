@@ -1,6 +1,8 @@
 # CI/CD Tools and Practices Final Project Template
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+This repository contains Final Project´s for **edX** course **IBM CD0215EN - CI/CD Tools and Practices**.
+
+Adjusted by **Hugo Aquino - Panama City, May 2025**.
 
 ## Usage
 
@@ -24,7 +26,8 @@ Then you must exit the shell and start a new one for the Python virtual environm
 exit
 ```
 
-## Tasks
+## Results
+
 
 
 ## License
