@@ -28,7 +28,9 @@ exit
 
 ## Results
 
+1. Provide the GitHub URL of the .github/workflows/workflow.yml file showing the code snippet for the linting step.
 
+https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/main/.github/workflows/workflow.yml#L20-L23
 
 ## License
 
