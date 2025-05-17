@@ -46,6 +46,8 @@ https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/05c10368a85bdcd5
 
 5. Screenshot showing OpenShift PVC details. 
 
+![OpenShift PVC details](images/oc-pipelines-console-pvc-details.JPG)
+
 6. Screenshot showing GitHub actions running successfully.
 
 7. Screenshot showing details of the OpenShift Pipeline.
