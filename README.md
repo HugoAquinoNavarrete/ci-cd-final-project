@@ -50,12 +50,19 @@ https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/05c10368a85bdcd5
 
 6. Screenshot showing GitHub actions running successfully.
 
+![GitHub actions running successfully](images/cicd-github-validate.JPG)
+
 7. Screenshot showing details of the OpenShift Pipeline.
+
+![OpenShift Pipeline](images/oc-pipelines-oc-final.JPG)
 
 8. Screenshot showing details of the OpenShift Pipeline running successfully.
 
+![OpenShift Pipeline running successfully](images/oc-pipelines-oc-green.JPG)
+
 9. Screenshot of the running application logs from OpenShift console.
 
+![Application logs from OpenShift console](images/oc-pipelines-app-logs.JPG)
  
 ## License
 
