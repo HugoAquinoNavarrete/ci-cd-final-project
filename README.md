@@ -32,10 +32,29 @@ exit
 
 https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/51421f512138b92547a2680460b48df813a8c1a8/.github/workflows/workflow.yml#L20-L23
 
-1. Provide the GitHub URL of the `.github/workflows/workflow.yml` file showing the code snippet for the `test` step.
+2. Provide the GitHub URL of the `.github/workflows/workflow.yml` file showing the code snippet for the `test` step.
 
 https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/03476b11b74785065805f53bdcc5e5ef6269d138/.github/workflows/workflow.yml#L24-L25
 
+3. Provide the GitHub URL of the `.tekton/tasks.yml` file showing the code snippet for the `cleanup` task.
+
+https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/05c10368a85bdcd5b9dcf3a7b11db2c059c04433/.tekton/tasks.yml#L2-L35
+
+4. Provide the GitHub URL of the `.tekton/tasks.yml` file showing the code snippet for the `nose test` task.
+
+https://github.com/HugoAquinoNavarrete/ci-cd-final-project/blob/05c10368a85bdcd5b9dcf3a7b11db2c059c04433/.tekton/tasks.yml#L38-L59
+
+5. Screenshot showing OpenShift PVC details. 
+
+6. Screenshot showing GitHub actions running successfully.
+
+7. Screenshot showing details of the OpenShift Pipeline.
+
+8. Screenshot showing details of the OpenShift Pipeline running successfully.
+
+9. Screenshot of the running application logs from OpenShift console.
+
+ 
 ## License
 
 Licensed under the Apache License. See [LICENSE](/LICENSE)
